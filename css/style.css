@@ -1,0 +1,29 @@
+body {
+    background: rgb(253, 249, 249);
+    margin-left: 30px;
+}
+
+header {margin-top: 40px;
+}
+
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+P{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img_padrao {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin-bottom: 20px;
+}
